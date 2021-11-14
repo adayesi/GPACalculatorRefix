@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\obj\Debug\netcoreapp3.1\GPACalculatorRefix.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\obj\Debug\netcoreapp3.1\GPACalculatorRefix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\obj\Debug\netcoreapp3.1\GPACalculatorRefix.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\obj\Debug\netcoreapp3.1\GPACalculatorRefix.AssemblyInfo.cs
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\obj\Debug\netcoreapp3.1\GPACalculatorRefix.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\bin\Debug\netcoreapp3.1\GPACalculatorRefix.exe
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\bin\Debug\netcoreapp3.1\GPACalculatorRefix.deps.json
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\bin\Debug\netcoreapp3.1\GPACalculatorRefix.runtimeconfig.json
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\bin\Debug\netcoreapp3.1\GPACalculatorRefix.runtimeconfig.dev.json
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\bin\Debug\netcoreapp3.1\GPACalculatorRefix.dll
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\bin\Debug\netcoreapp3.1\GPACalculatorRefix.pdb
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\obj\Debug\netcoreapp3.1\GPACalculatorRefix.dll
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\obj\Debug\netcoreapp3.1\GPACalculatorRefix.pdb
+C:\Users\hp\source\repos\GPACalculatorRefix\GPACalculatorRefix\obj\Debug\netcoreapp3.1\GPACalculatorRefix.genruntimeconfig.cache
